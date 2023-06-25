@@ -7,8 +7,9 @@
                 counter += 1
         print(f'{sym} - {counter}')'''
 
+
 # O (N)
-def strcounter(s):
+'''def strcounter(s):
     syms_counter = {}
     for sym in s:
         syms_counter[sym] = syms_counter.get(sym, 0) + 1
@@ -18,4 +19,14 @@ def strcounter(s):
 
 
 
-strcounter('zzzz')
+strcounter('zzzz')'''
+
+# Дз
+
+def palindrom_detector(s):
+    if s == s[::-1]:
+        print(True)
+    else:
+        print(False)
+
+palindrom_detector('helloworld')
