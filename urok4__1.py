@@ -30,3 +30,4 @@ def palindrom_detector(s):
         print(False)
 
 palindrom_detector('helloworld')
+palindrom_detector('лепсспел')
