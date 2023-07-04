@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
     background: red;
 }
@@ -23,4 +24,28 @@ h1 {
     font-style: oblique;
     text-align: center;
     text-shadow: 1px 1px 2px green;
+=======
+h1 {
+    background: red;
+}
+
+.p1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.p2 {
+    border: 10px solid yellox;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-left: 50px;
+}
+
+.p3 {
+    font-weight: 900;
+    font-size: 20px;
+    font-family: Courier New
+>>>>>>> 2d6b8344f46b382304b933bfb39a87b95329d97a
 }
