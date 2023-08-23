@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'app_advertisements.apps.AppAdvertisementsConfig',
     'test_111',
     'app_lesson_4',
+    'app_auth',
 ]
 
 MIDDLEWARE = [
